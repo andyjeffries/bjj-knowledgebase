@@ -32,7 +32,7 @@ Tips:
 Options:
 
 - If you're the bottom and they're within your legs, close your legs and cross your ankles to get to [full guard](#position-full-guard)
-- If you're the bottom, keep your knees wide apart and your feet active to retain that position, if they pass your knees, you're screwed.
+- If you're the bottom and their outside of your leg range, keep your knees wide apart and your feet active to retain that position, if they pass your knees, you're screwed. Use your feet following them to rotate round to keep them inline with you.
 - You can try an [idiot sweep](#idiot-sweep), but it's likely to get you crushed by senior belts if you try/manage it on them
 - If you're standing/the top, you can try a [toreando pass](#toreando-pass)
 
