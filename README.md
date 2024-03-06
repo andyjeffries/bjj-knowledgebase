@@ -21,11 +21,19 @@ Options:
 - [Arm bar from guard](#arm-bar-from-guard)
 - [Triangle from guard](#triangle-from-guard)
 - [Omoplata from guard](#omoplata-from-guard)
+- [Kimura from guard](#kimura-from-guard)
 
-Tips:
+Defensive tips:
 
 - Keep your ankles crossed until you need to open them
 - Try to keep them from posturing back/up
+
+Attacking tips:
+
+- Keep your shoulders below the line of their belt/hips
+- Hands on their stomach, no higher
+- Never let your elbow cross the centre line
+- Never put your hands on the floor
 
 ## Position: Open guard
 
@@ -83,7 +91,17 @@ Tips:
 
 ## Position: Side control botttom
 
-TODO
+Tips:
+
+- Feel for their weight being too far to the side opposite their legs, bridging and flipping them over may be an option
+- Frames are key for making space
+
+Steps:
+
+- Work your near side hand to the hip (elbow inside their knee)
+- Work your far side hand across their throat (hand on the shoulder, straight wrist)
+- Bridge to push them off, then keep your frame where is (don't try to push the frame out, but lift with the frame then drop and keep the frame)
+- Shrip, knee insert and push/wiggle to recover [guard](#position-full-guard)
 
 ## Position: Turtle top
 
@@ -91,17 +109,38 @@ TODO
 
 ## Position: Back mount
 
-TODO
+Tips:
+
+- Seat belt grip (one over the shoulders, one under the arm) is key for control
+- When putting in your feet (hooks) go one at a time
+- You want to keep your hips at the same height as theirs (don't be too high on their back or you can be shrugged off)
+- When you roll to the side, keep them tight and try not to have your back flat on the floor
+- NEVER cross your ankles
 
 ## Position: Full mount
 
-TODO
+Attacking tips:
 
-## Position: Under full mount
+- Don't get too low in the mount, it makes bridging buck you off more
+- If they go elbows in tight, you can use a cross grip to grab each wrist (it's slightly stronger) and fake at one to attack the other (Gordon Ryan tip)
+- If you're going to get a choke and step off to knee on belly or side control, make sure you have it ready to go!
 
-TODO
+Defensive tips:
+
+- Keep your arms in tight
+- Use your elbows on their legs/knees to lower them down
+- You can [trap and roll](#trap-and-roll) to change to being in their [full guard](#position-full-guard)
 
 ## Position: Knee on belly
+
+Tips:
+
+- To make this more uncomfortable, grab hold of their collar and pull upwards towards the sky
+- To make it more uncomfortable still, put your knee in their solar plexus rather than across their stomach
+- Make sure your knee-on-belly foot is not on the floor (pressure on them)
+- Take the opposite leg out, bent slightly and foot standing on the floor (so they can't grab it)
+
+## Position: De la Riva
 
 TODO
 
@@ -164,6 +203,15 @@ Steps:
 - Keeping them tightly to you, roll on to your back
 - Establish your other foot as a hook and seatbelt control with your arms to gain [back control](#position-back-mount), not lying flat on your back though, more on your side (so you don't carry their weight)
 
+## Trap and roll
+
+Steps:
+
+- Grab one wrist (with the same hand, left-left or right-right) and pull it to the opposite side
+- With your opposite hand grab the tricep (to stop them pulling it back out)
+- Bring your tricep-grip-hand's foot to trap their foot
+- Bridge and roll, end up in their [full guard](#position-full-guard) - not ideal but better, then you can work to pass
+
 ## Pull guard
 
 Steps:
@@ -184,47 +232,130 @@ Steps:
 
 ## Mat return
 
-TODO
+Steps:
+
+- From a single cuff and opposite collar [standing](#position-standing)
+- Pull them forward (towards you) drop to your collar-side knee and pull back with the collar and cuff, so they are on your shoulder
+- Let go with the grips and step your non-collar side knee round behind them
+- Grab around their waste and lock your grip
+- Change feet quickly
+- Rotate and pull them to the ground over your knee
+- End up in [side control top](#position-side-control-top]
 
 ## Arm bar from guard
 
-TODO
+Steps:
+
+- Trap their elbow at the centre of your chest, ideally one hand behind their tricep and one on their wrist (let's say you have your left hand on their tricep, and right on their wrist)
+- Open your guard and push off their left hip, or the floor to rotate to your right (so you can look in their ear)
+- Swing your left foot out and round in front of their face
+- Elbow on your stomach, their thumb the sky
+- Clamp your legs together and down, then slowly raise your hips
 
 ## Triangle from guard
 
-TODO
+Steps:
+
+- Control one wrist of theirs (say their left wrist)
+- Open your guard and quickly throw that controlled wrist toward their hip, while your leg on that side (right leg) loops out up and over their shoulder
+- Try to have your calf go across the back of their neck
+- Grab high up your shin on that side (but on the opposite side of their neck from your leg)
+- Rotate to your right, to try to look in their ear - as per [arm bar from guard](#arm-bar-from-guard)
+- Hook the back of your left leg over your own right ankle (you can now let go with your hand)
+- Hip bump and move their right arm across your stomach
+- Squeeze your legs together and pull down on the back of their head with both hands.
 
 ## Omoplata from guard
 
-TODO
+Steps:
+
+- Control one wrist of theirs (say their left wrist)
+- Open your guard and quickly rotate, throwing your same side leg up towards that trapped wrist's shoulder
+- Rotate your body so your head goes to their feet and your feet to their head
+- You'll have their arm between your legs
+- Figure-four your legs (to better trap it)
+- Reach up and over their waist (to stop a forward roll to reduce pressure)
+- Sit/stand up (forward) from there to finish
+
+## Kimura from guard
+
+Steps:
+
+- Pull one of their wrists to the floor (let's say their left wrist)
+- If you struggle to grab it, either pull them down or sit up and frame across their chest and hold their tricep, then slide your hand down to their wrist (and let go of the top frame)
+- Sit up and to the side (you can open your guard at this point and push off the floor with your left foot) and reach your left arm up and over
+- With your left hand, grab your right wrist
+- Lay back down, and rotate to the left side of your body
+- Move the Kimura up their spine for the tap.
 
 ## Side control far side americana
 
-TODO
+Steps:
+
+- From [Side control](#position-side-control-top) make sure you have control of their far side arm and pin it to the floor
+- Loop your top arm over their head and pin their wrist to the floor with a monkey grip
+- Slide your bottom arm up under their tricep and kimura grip your top arm
+- You can either then pull the elbow towards their feet and up in the air (paintbrush wrist)
+- Or you can pull their elbow close to their body and reverse-motorcycle rev with your top hand
+- A common defence is for them to straighten their arm to try to pull it out, if they do go to [Side control far side arm bar](#side-control-far-side-arm-bar)
 
 ## Side control far side arm bar
 
-TODO
+Steps:
+
+- Keeping the same grips as for [Side control far side americana](#side-control-far-side-americana) but the bottom player straightens their arm
+- Keep the same grips as for the American, but reverse-motorcycle rev your BOTTOM arm to hyperextend their elbow.
+- As a defensive option, they can try to pull their hand down to their hip, in which case you go to [Side control far side kimura](#side-control-far-side-kimura)
 
 ## Side control far side kimura
 
-TODO
+Steps:
+
+- Change hands on their wrist and reverse your Kimura grip
+- Step up to your left foot (if you're laying on the left side attacking the right)
+- Bring your foot behind them to their shoulders
+- Lift them up on to their left shoulder, and bring their hand up their spine to finish
 
 ## Side control breadcutter choke
 
-TODO
+Steps:
+
+- Reach over with your top side arm, in to their far side neck-collar
+- The grip should be thumb in, make a fist, little finger edge down
+- Don't have it too deep, aim to have the wrist joint on their adam's apple
+- Drop your elbow to the floor and flex your wrist up to finish
+- If needed, put your forehead on their chest and knees off the floor
 
 ## Side control baseball bat choke
 
-TODO
+Steps:
+
+- Although it starts from [side control](#position-side-control-top) you actually transition to [knee on belly](#position-knee-on-belly) first! So follow that [transition from side control to knee on belly](#side-control-to-knee-on-belly) then come back
+- Let go of the belt and with the bottom hand do a palm up grip (fingers in) just to the side of your underneath head grip
+- Slide your right knee up to above their bicep (use the foot and knee/shin to pin it to the floor)
+- Rotate to face their feet, making your forearms a cross on their neck
+- Head to the floor (to the side you were laying) to finish
 
 ## Side control to knee on belly
 
-TODO
+Steps: 
+
+- With the top arm underneath their head, grab their collar
+- With the bottom arm, grab their belt on the far side hip
+- Use these two grips to hold them down as you pop to knee on belly (and top foot out!)
 
 ## Foot walkup and shin half-guard pass
 
-TODO
+Steps:
+
+- Arm on the opposide side to the trapped leg underneath their head (fingers in armpit)
+- Keep your shoulder pressure with that under-neck arm
+- Drop your untrapped him to the floor
+- Lean weight across to the trapped side shoulder (pinning your opponents shoulders to the floor)
+- Walk your trapped leg foot (heel and toe) up near their butt
+- Grab their knee pants material and work your trapped knee free of the lock (not the whole leg, just the trapped knee)
+- Using your shin of the trapped knee press their leg to the floor
+- Hard pressure at the shoulder side and slide your trapped foot out and go to [Side control top](#position-side-control-top)
 
 ## Toreando pass
 
