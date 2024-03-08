@@ -88,7 +88,6 @@ Tips:
 - Pull them slightly up on to your knees to reduce their movement
 - Use the under their neck shoulder pressing in to their neck to make them uncomfortable - the "Shoulder of Justice"
 
-
 ## Position: Side control botttom
 
 Tips:
@@ -142,7 +141,24 @@ Tips:
 
 ## Position: De la Riva
 
-TODO
+Tips:
+
+- This is an open guard position where your foot is on the same-side hip of your standing oppoonent, and your opposite leg is wrapped around the back of their same-side knee/thigh
+- You want to also control their posture ideally through a collar grip and an ankle grip on the side you're wrapping the leg
+- If they try to pass De la Riva, then you go to [Reverse De La Riva](#position-reverse-de-la-riva)
+- Try to keep your head off the floor and ideally on your side a bit, not flat-backed
+
+Options:
+
+- [Kick out sweep from De la Riva](#kick-out-sweep-from-de-la-riva)
+
+## Position: Reverse De la Riva
+
+Tips:
+
+- This is an open guard position where your inside leg and outside leg wraps one of your opponent's one leg.
+- When your opponent tries to pass to the hip-foot in [De la Riva](#position-de-la-riva) you wrap that hip-foot around the back of their other leg (x-side) and your previous wrapping foot move up to the front of their same side hip
+- Try to keep your head off the floor and ideally on your side a bit, not flat-backed
 
 ## Gain knee shield half-guard bottom
 
@@ -211,6 +227,17 @@ Steps:
 - With your opposite hand grab the tricep (to stop them pulling it back out)
 - Bring your tricep-grip-hand's foot to trap their foot
 - Bridge and roll, end up in their [full guard](#position-full-guard) - not ideal but better, then you can work to pass
+
+## Kick out sweep from De la Riva
+
+Steps:
+
+- Also known as a split sweep
+- Take the foot from their hip and push their mid-thigh away so they go to a long split position
+- At the same time, let go of their ankle, sit up, post on that hand and your kicked out foot
+- Drop your wrapped leg to the floor
+- Pull their wrapped foot to your butt and then rotate
+- Transition to [Side control](#position-side-control-top)
 
 ## Pull guard
 
@@ -338,7 +365,7 @@ Steps:
 
 ## Side control to knee on belly
 
-Steps: 
+Steps:
 
 - With the top arm underneath their head, grab their collar
 - With the bottom arm, grab their belt on the far side hip
