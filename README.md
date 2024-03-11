@@ -43,6 +43,7 @@ Options:
 - If you're the bottom and their outside of your leg range, keep your knees wide apart and your feet active to retain that position, if they pass your knees, you're screwed. Use your feet following them to rotate round to keep them inline with you.
 - You can try an [idiot sweep](#idiot-sweep), but it's likely to get you crushed by senior belts if you try/manage it on them
 - If you're standing/the top, you can try a [toreando pass](#toreando-pass)
+- If you're standing/the top, you can try a [knee slice pass](#knee-slice-pass)
 
 ## Position: Half-guard top
 
@@ -393,6 +394,18 @@ Steps:
 - Push/hold their hip to the floor
 - Then using their trouser knee grip you can push it straight out, moving your arm across your body so the leg goes past you
 - Then quickly pass their stretched knee (so if their right knee is straight you pass to your left)
+- Drop to [side control](#position-side-control-top)
+
+## Knee slice pass
+
+Steps:
+
+- From outside of [Open guard](#position-open-guard)
+- You want to grab the inside of their trouser knee on one side and your hand on their opposite hip
+- Push/hold their hip to the floor
+- Then using their trouser knee grip, push that knee to the floor, put your x-side/opposite knee to floor just past their knee (i.e. shin on their thigh)
+- Keep your same side foot out wide
+- Then slide your knee all the way through
 - Drop to [side control](#position-side-control-top)
 
 ## Idiot sweep
