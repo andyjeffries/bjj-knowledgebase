@@ -262,87 +262,88 @@ Steps:
 
 Steps:
 
-- From a single cuff and opposite collar [standing](#position-standing)
-- Pull them forward (towards you) drop to your collar-side knee and pull back with the collar and cuff, so they are on your shoulder
-- Let go with the grips and step your non-collar side knee round behind them
-- Grab around their waste and lock your grip
-- Change feet quickly
-- Rotate and pull them to the ground over your knee
-- End up in [side control top](#position-side-control-top]
+- From a wrist and opposite side collar grip from [standing](#position-standing)
+- Pull them towards you and drop down to the wrist grip side (while lifting the wrist grip up parallel to the floor) on the opposite side knee as the wrist grip
+- Let go of the grips and grab around their waist
+- Change legs (so if you'd got a left side wrist grip and gone to your right knee down, change so your left knee is down)
+- Rotate your waist and pull them over your upright knee to the mat
+- Ending up in [side control top](#position-side-control-top)
 
 ## Arm bar from guard
 
 Steps:
 
-- Trap their elbow at the centre of your chest, ideally one hand behind their tricep and one on their wrist (let's say you have your left hand on their tricep, and right on their wrist)
-- Open your guard and push off their left hip, or the floor to rotate to your right (so you can look in their ear)
-- Swing your left foot out and round in front of their face
-- Elbow on your stomach, their thumb the sky
-- Clamp your legs together and down, then slowly raise your hips
+- Pin one of their wrists to your chest, pulling it across the centre line
+- Open your guard and place the foot furthest from their pinned wrist on the floor by their leg
+- Push off your foot and rotate to look in their ear on the wrist pinned side
+- Swing your leg out and round in front of their head
+- Clamp your legs down and together and raise your hips to finish the arm bar
 
 ## Triangle from guard
 
 Steps:
 
-- Control one wrist of theirs (say their left wrist)
-- Open your guard and quickly throw that controlled wrist toward their hip, while your leg on that side (right leg) loops out up and over their shoulder
-- Try to have your calf go across the back of their neck
-- Grab high up your shin on that side (but on the opposite side of their neck from your leg)
-- Rotate to your right, to try to look in their ear - as per [arm bar from guard](#arm-bar-from-guard)
-- Hook the back of your left leg over your own right ankle (you can now let go with your hand)
-- Hip bump and move their right arm across your stomach
-- Squeeze your legs together and pull down on the back of their head with both hands.
+- Grab both wrists of your opponent
+- Holding one firmly, push the other down towards their own hip and pull your leg on the same side out and round
+- Bite your calf down on the back of your neck and quickly grab your mid-shin with the same side hand (right foot, grab with left hand)
+- Grab their arm that's above your legs with your opposite hand (e.g. right grabs right)
+- With your non-locking leg, put the foot on the floor and use it to rotate round further (you want the lower leg directly across the neck)
+- Lift that leg and lock it against your ankle (try not to have it on your foot, you'll foot-lock yourself)
+- Ensure their arm is going across your stomach and tight to your hips
+- Squeeze your legs together, pull their head to your stomach and pull your non-locked foot towards the ground
 
 ## Omoplata from guard
 
 Steps:
 
-- Control one wrist of theirs (say their left wrist)
-- Open your guard and quickly rotate, throwing your same side leg up towards that trapped wrist's shoulder
-- Rotate your body so your head goes to their feet and your feet to their head
-- You'll have their arm between your legs
-- Figure-four your legs (to better trap it)
-- Reach up and over their waist (to stop a forward roll to reduce pressure)
-- Sit/stand up (forward) from there to finish
+- Grab one of their wrists and pull it down to the floor alongside your hip on the same side
+- Open your guard and at the same time put the far side foot on the floor, push off it and swing your near side foot up and over as you rotate your upper body 180°
+- Cross your legs and the knees after you rotate (at least the arm that's grabbing their elbow should be going across)
+- Grab the back of their belt (they'll have bent forward)
+- Uncross your legs to be able to sit up/forward (towards their head) for the tap
 
 ## Kimura from guard
 
 Steps:
 
-- Pull one of their wrists to the floor (let's say their left wrist)
-- If you struggle to grab it, either pull them down or sit up and frame across their chest and hold their tricep, then slide your hand down to their wrist (and let go of the top frame)
-- Sit up and to the side (you can open your guard at this point and push off the floor with your left foot) and reach your left arm up and over
-- With your left hand, grab your right wrist
-- Lay back down, and rotate to the left side of your body
-- Move the Kimura up their spine for the tap.
+- Grab one of their wrists with your same-side grip and pull it down to the floor alongside your hip on the same side
+- Sit up and reach across to pass your other hand over their tricep, underneath their arm and grab your own wrist
+- Lay back and rotate to the other side of your body
+- Keep at least the same-side leg on their back to stop them rolling out
+- Move their wrist up their spine for the tap
 
 ## Side control far side americana
 
 Steps:
 
-- From [Side control](#position-side-control-top) make sure you have control of their far side arm and pin it to the floor
-- Loop your top arm over their head and pin their wrist to the floor with a monkey grip
-- Slide your bottom arm up under their tricep and kimura grip your top arm
-- You can either then pull the elbow towards their feet and up in the air (paintbrush wrist)
-- Or you can pull their elbow close to their body and reverse-motorcycle rev with your top hand
-- A common defence is for them to straighten their arm to try to pull it out, if they do go to [Side control far side arm bar](#side-control-far-side-arm-bar)
+- From [side control top](#position-side-control-top)
+- Isolate their far side arm (using your head and arm)
+- Bring your top arm around their head from the safety position
+- Hold their wrist with your top arm (monkey grip palm down) and tight to the floor
+- Work your bottom arm under their tricep then bicep (fingers down and flat)
+- Grab your own wrist with another monkey grip palm down
+- Pull their own elbow tight to the side of their body
+- Reverse-rev (motorcycle style, but opposite) your wrist for the finish
+- If they still don't tap, raise their elbow from the floor and slightly move the wrist down towards their feet
+- If this fails, you can often get [Side control far side arm bar](#side-control-far-side-arm-bar)
 
 ## Side control far side arm bar
 
 Steps:
 
-- Keeping the same grips as for [Side control far side americana](#side-control-far-side-americana) but the bottom player straightens their arm
-- Keep the same grips as for the American, but reverse-motorcycle rev your BOTTOM arm to hyperextend their elbow.
-- As a defensive option, they can try to pull their hand down to their hip, in which case you go to [Side control far side kimura](#side-control-far-side-kimura)
+- From trying to get a [Side control far side americana](#side-control-far-side-americana) you find your opponent tries to straighten their arm to get out of it
+- Keep the same grip
+- Let the arm go straight
+- Reverse-rev the opposite wrist (to lift/hyperextend their elbow)
+- If this fails they'll either go back to [Side control far side americana](#side-control-far-side-americana) or maybe to [Side control far side kimura](#side-control-far-side-kimura)
 
 ## Side control far side kimura
 
 Steps:
 
-- Change hands on their wrist and reverse your Kimura grip
-- Step up to your left foot (if you're laying on the left side attacking the right)
-- Bring your foot behind them to their shoulders
-- Lift them up on to their left shoulder, and bring their hand up their spine to finish
+- From trying to get a [Side control far side arm bar](#side-control-far-side-arm-bar) you find your opponent tries to bend their arm to get out of it
+- Change your grip so your lower hand now grabs the wrist (C-grip) and your upper hand goes under their tricep/bicep to grab your own wrist (monkey grip)
+- Transition to [north-south](#position)
 
 ## Side control breadcutter choke
 
