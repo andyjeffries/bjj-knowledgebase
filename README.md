@@ -81,6 +81,7 @@ Options:
 - [Side control breadcutter choke](#side-control-breadcutter-choke)
 - [Side control baseball bat choke](#side-control-baseball-bat-choke)
 - [Side control to knee on belly](#side-control-to-knee-on-belly)
+- [Side control release to turtle top](#side-control-to-turtle-top)
 
 Tips:
 
@@ -103,19 +104,22 @@ Steps:
 - Bridge to push them off, then keep your frame where is (don't try to push the frame out, but lift with the frame then drop and keep the frame)
 - Shrip, knee insert and push/wiggle to recover [guard](#position-full-guard)
 
-## Position: Turtle top
-
-TODO
-
 ## Position: Back mount
 
 Tips:
 
 - Seat belt grip (one over the shoulders, one under the arm) is key for control
 - When putting in your feet (hooks) go one at a time
+- If you struggle to get your second hook in (they bring their knee to their elbow to close the gap), cross the ankle of the one hook behind their legs, and arch your back to extend them, then hook in with that second hook
 - You want to keep your hips at the same height as theirs (don't be too high on their back or you can be shrugged off)
 - When you roll to the side, keep them tight and try not to have your back flat on the floor
 - NEVER cross your ankles
+
+Options:
+
+- [Rear naked choke](#rear-naked-choke)
+- [Cross collar choke](#cross-collar-choke)
+- [Bow and arrow choke](#bow-and-arrow-choke)
 
 ## Position: Full mount
 
@@ -373,6 +377,15 @@ Steps:
 - With the bottom arm, grab their belt on the far side hip
 - Use these two grips to hold them down as you pop to knee on belly (and top foot out!)
 
+## Side control release to turtle top
+
+Steps:
+
+- Assuming your left leg is the top one (near the head not the hip)
+- Lift your weight off them and almost move your far arm (bottom arm) away to give them space to turn over
+- If you're quick enough, catch their hip with that bottom arm as they turn, come up on your top hand and bottom foot, insert your top foot as a hook and pull them back in to [back mount](#position-back-mount)
+- If you're not quick enough and they get to their knees fully and turtle up, post up on your left hand (to your opponent's 12 O'clock) and left foot, swing your right leg over and hug their hips with your knees, continue rolling pulling them with you, changing to right hand post, then on to your side to take their [back mount](#position-back-mount)
+
 ## Foot walkup and shin half-guard pass
 
 Steps:
@@ -418,3 +431,41 @@ Steps:
 - Quickly pull your feet back towards your knees (L shape) and hook them behind your opponents ankles
 - At the same time pull back and out with your legs and push with your hands on their knees/shins/thighs
 - Ideally keep your grips on their legs and follow them up to retain control
+
+## Rear naked choke
+
+Steps:
+
+- From [back mount](#position-back-mount) with a seatbelt grip
+- The top arm (on top of their shoulder) go under their chin with their chin in the crook of your elbow
+- Pull your bottom arm out
+- The top arm goes palm down monkey grip on your bottom arm bicep
+- Bottom arm hand, palm towards yourself and behind their head
+- Squeeze for the tap
+- If you can't get your bottom arm hand behind their head, switch to a gable grip and put your bottom forearm down their shoulder/back (for leverage) and finish without it
+
+## Cross collar choke
+
+Steps:
+
+- From [back mount](#position-back-mount) with a seatbelt grip
+- With your bottom hand, open the same side gi collar a bit
+- Your top hand goes in to their gi lapel on its opposite side, thumb inside (almost rear naked choke position) as high/far round as you can
+- Your bottom hand grabs their gi collar and pull it down (doesn't need to be a crazy yank, just keeping it tight)
+- Slide your top arm out and straight (think ezekiel style movement, the slide off and straighten)
+
+## Bow and arrow choke
+
+This one is hard for me to execute due to size, but documenting it anyway...
+
+Steps:
+
+- From [back mount](#position-back-mount) with a seatbelt grip
+- When they try to deal with your nearest the floor hook
+- Use your top hook behind their top hamstring to kick them forward
+- Keep a tight seatbelt, but transition to a thumb in grip like a [cross collar choke](#cross-collar-choke)
+- Follow them up on to your bottom shin alongside their back and put your top hook back in to the right place
+- Grab that top hook side opponent's pants knee
+- Sit back on to your butt
+- Bring your bottom leg round and pin their bottom arm
+- Pull tight on the collar in the same was as a cross collar choke and their pant knee at the same time (don't lay back flat though)
