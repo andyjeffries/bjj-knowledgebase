@@ -81,7 +81,7 @@ Options:
 - [Side control breadcutter choke](#side-control-breadcutter-choke)
 - [Side control baseball bat choke](#side-control-baseball-bat-choke)
 - [Side control to knee on belly](#side-control-to-knee-on-belly)
-- [Side control release to turtle top](#side-control-to-turtle-top)
+- [Side control release to turtle top](#side-control-release-to-turtle-top)
 
 Tips:
 
