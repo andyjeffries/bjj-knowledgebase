@@ -86,9 +86,15 @@ Options:
 Tips:
 
 - Keep your weight pressed in to them, knees high on their body
-- Top arm (nearest their head) under their neck and fingers in their far side armpit
+- Top arm (nearest their head) under their neck and fingers in their far side armpit. If you're struggling to get this, some tips:
+  1. Walk your fingers like a worm or a spider under their neck (NOT THEIR HEAD)
+  2. Wave your hand side to side as it goes under, like a windscreen wiper (thanks Lindz)
+  3. Use your head to push their head to the side your hand is going under, so it's moving less distance
 - Pull them slightly up on to your knees to reduce their movement
 - Use the under their neck shoulder pressing in to their neck to make them uncomfortable - the "Shoulder of Justice"
+- To deal with an uncomfortable cross-face (forearm to the neck), you can do one of:
+  1. Deal with the hip arm first (because that's stopping you putting your weight forwards), then just push forward to push that arm to their side
+  2. Push on their tricep (so their arm slips past your neck and your neck is then on their tricep)
 
 ## Position: Side control botttom
 
