@@ -535,7 +535,7 @@ Steps:
 - Bring your bottom leg round and pin their bottom arm
 - Pull tight on the collar in the same was as a cross collar choke and their pant knee at the same time (don't lay back flat though)
 
-###  Ezekiel from mount
+### Ezekiel from mount
 
 Steps:
 
