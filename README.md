@@ -1,6 +1,54 @@
 # Andy's BJJ Knowledgebase
 
-## Position: Standing
+- [Andy's BJJ Knowledgebase](#andys-bjj-knowledgebase)
+  - [Positions](#positions)
+    - [Position: Standing](#position-standing)
+    - [Position: Full guard](#position-full-guard)
+    - [Position: Open guard](#position-open-guard)
+    - [Position: Half-guard top](#position-half-guard-top)
+    - [Position: Half-guard bottom](#position-half-guard-bottom)
+    - [Position: Knee shield half guard bottom](#position-knee-shield-half-guard-bottom)
+    - [Position: Side control top](#position-side-control-top)
+    - [Position: Side control botttom](#position-side-control-botttom)
+    - [Position: Back mount](#position-back-mount)
+    - [Position: Full mount](#position-full-mount)
+    - [Position: Knee on belly](#position-knee-on-belly)
+    - [Position: De la Riva](#position-de-la-riva)
+    - [Position: Reverse De la Riva](#position-reverse-de-la-riva)
+  - [Transitions](#transitions)
+    - [Gain knee shield half-guard bottom](#gain-knee-shield-half-guard-bottom)
+    - [Knee grab half guard pass](#knee-grab-half-guard-pass)
+    - [Ankle pick half guard pass](#ankle-pick-half-guard-pass)
+    - [Gi collar half guard pass](#gi-collar-half-guard-pass)
+    - [Back take half guard pass](#back-take-half-guard-pass)
+    - [Trap and roll](#trap-and-roll)
+    - [Kick out sweep from De la Riva](#kick-out-sweep-from-de-la-riva)
+    - [Pull guard](#pull-guard)
+    - [Pull guard sweep](#pull-guard-sweep)
+    - [Mat return](#mat-return)
+    - [Side control to knee on belly](#side-control-to-knee-on-belly)
+    - [Side control release to turtle top](#side-control-release-to-turtle-top)
+    - [Foot walkup and shin half-guard pass](#foot-walkup-and-shin-half-guard-pass)
+    - [Toreando pass](#toreando-pass)
+    - [Knee slice pass](#knee-slice-pass)
+    - [Idiot sweep](#idiot-sweep)
+  - [Submissions](#submissions)
+    - [Arm bar from guard](#arm-bar-from-guard)
+    - [Triangle from guard](#triangle-from-guard)
+    - [Omoplata from guard](#omoplata-from-guard)
+    - [Kimura from guard](#kimura-from-guard)
+    - [Side control far side americana](#side-control-far-side-americana)
+    - [Side control far side arm bar](#side-control-far-side-arm-bar)
+    - [Side control far side kimura](#side-control-far-side-kimura)
+    - [Side control breadcutter choke](#side-control-breadcutter-choke)
+    - [Side control baseball bat choke](#side-control-baseball-bat-choke)
+    - [Rear naked choke](#rear-naked-choke)
+    - [Cross collar choke](#cross-collar-choke)
+    - [Bow and arrow choke](#bow-and-arrow-choke)
+
+## Positions
+
+### Position: Standing
 
 Options:
 
@@ -14,7 +62,7 @@ Tips:
 - Hips/shoulders more square until you need to keep one lapel away from your opponent
 - Arms up in t-rex style, palms away
 
-## Position: Full guard
+### Position: Full guard
 
 Options:
 
@@ -35,7 +83,7 @@ Attacking tips:
 - Never let your elbow cross the centre line
 - Never put your hands on the floor
 
-## Position: Open guard
+### Position: Open guard
 
 Options:
 
@@ -45,13 +93,13 @@ Options:
 - If you're standing/the top, you can try a [toreando pass](#toreando-pass)
 - If you're standing/the top, you can try a [knee slice pass](#knee-slice-pass)
 
-## Position: Half-guard top
+### Position: Half-guard top
 
 Options:
 
 - [Foot walkup and shin half-guard pass](#foot-walkup-and-shin-half-guard-pass)
 
-## Position: Half-guard bottom
+### Position: Half-guard bottom
 
 Options:
 
@@ -62,7 +110,7 @@ Tips:
 - Keep their leg locked down in a figure four until you NEED to open it
 - To control their leg one footed, turn your inside foot (of the two feet in bottom half-guard, one is inside of the pair, the other is outside) to the ground so your toes and knee are on the ground, but the gap between them (your shin) still traps their leg
 
-## Position: Knee shield half guard bottom
+### Position: Knee shield half guard bottom
 
 Options:
 
@@ -71,7 +119,7 @@ Options:
 - [Gi collar half guard pass](#gi-collar-half-guard-pass)
 - [Back take half guard pass](#back-take-half-guard-pass)
 
-## Position: Side control top
+### Position: Side control top
 
 Options:
 
@@ -96,7 +144,7 @@ Tips:
   1. Deal with the hip arm first (because that's stopping you putting your weight forwards), then just push forward to push that arm to their side
   2. Push on their tricep (so their arm slips past your neck and your neck is then on their tricep)
 
-## Position: Side control botttom
+### Position: Side control botttom
 
 Tips:
 
@@ -110,7 +158,7 @@ Steps:
 - Bridge to push them off, then keep your frame where is (don't try to push the frame out, but lift with the frame then drop and keep the frame)
 - Shrip, knee insert and push/wiggle to recover [guard](#position-full-guard)
 
-## Position: Back mount
+### Position: Back mount
 
 Tips:
 
@@ -127,7 +175,7 @@ Options:
 - [Cross collar choke](#cross-collar-choke)
 - [Bow and arrow choke](#bow-and-arrow-choke)
 
-## Position: Full mount
+### Position: Full mount
 
 Attacking tips:
 
@@ -141,7 +189,7 @@ Defensive tips:
 - Use your elbows on their legs/knees to lower them down
 - You can [trap and roll](#trap-and-roll) to change to being in their [full guard](#position-full-guard)
 
-## Position: Knee on belly
+### Position: Knee on belly
 
 Tips:
 
@@ -150,7 +198,7 @@ Tips:
 - Make sure your knee-on-belly foot is not on the floor (pressure on them)
 - Take the opposite leg out, bent slightly and foot standing on the floor (so they can't grab it)
 
-## Position: De la Riva
+### Position: De la Riva
 
 Tips:
 
@@ -163,7 +211,7 @@ Options:
 
 - [Kick out sweep from De la Riva](#kick-out-sweep-from-de-la-riva)
 
-## Position: Reverse De la Riva
+### Position: Reverse De la Riva
 
 Tips:
 
@@ -171,7 +219,9 @@ Tips:
 - When your opponent tries to pass to the hip-foot in [De la Riva](#position-de-la-riva) you wrap that hip-foot around the back of their other leg (x-side) and your previous wrapping foot move up to the front of their same side hip
 - Try to keep your head off the floor and ideally on your side a bit, not flat-backed
 
-## Gain knee shield half-guard bottom
+## Transitions
+
+### Gain knee shield half-guard bottom
 
 Steps:
 
@@ -182,7 +232,7 @@ Steps:
 - Keep one handed neck frame and with the other hand grab their wrist and pull to the floor (to keep them from fighting your neck frame)
 - Gets you to [Position: Knee shield half guard bottom](#position-knee-shield-half-guard-bottom)
 
-## Knee grab half guard pass
+### Knee grab half guard pass
 
 Steps:
 
@@ -192,7 +242,7 @@ Steps:
 - Push them to the side of that knee, while pulling on their trouser to roll them over
 - Pass round 180 degrees to [side control](#position-side-control-top)
 
-## Ankle pick half guard pass
+### Ankle pick half guard pass
 
 Steps:
 
@@ -203,7 +253,7 @@ Steps:
 - Reach behind their leg with the underhook side (not over, but round the leg) and grab the foot.
 - Same kind of pass as [knee grab half guard pass](#knee-grab-half-guard-pass), i.e. pull on their foot, push with your weight and then rotate round to [side control](#position-side-control-top)
 
-## Gi collar half guard pass
+### Gi collar half guard pass
 
 Steps:
 
@@ -216,7 +266,7 @@ Steps:
 - Push them to the side of that knee, while pulling on their gi lapel to roll them over
 - Pass round 180 degrees to [side control](#position-side-control-top)
 
-## Back take half guard pass
+### Back take half guard pass
 
 Steps:
 
@@ -230,7 +280,7 @@ Steps:
 - Keeping them tightly to you, roll on to your back
 - Establish your other foot as a hook and seatbelt control with your arms to gain [back control](#position-back-mount), not lying flat on your back though, more on your side (so you don't carry their weight)
 
-## Trap and roll
+### Trap and roll
 
 Steps:
 
@@ -239,7 +289,7 @@ Steps:
 - Bring your tricep-grip-hand's foot to trap their foot
 - Bridge and roll, end up in their [full guard](#position-full-guard) - not ideal but better, then you can work to pass
 
-## Kick out sweep from De la Riva
+### Kick out sweep from De la Riva
 
 Steps:
 
@@ -250,7 +300,7 @@ Steps:
 - Pull their wrapped foot to your butt and then rotate
 - Transition to [Side control](#position-side-control-top)
 
-## Pull guard
+### Pull guard
 
 Steps:
 
@@ -258,7 +308,7 @@ Steps:
 - Either sit the floor then put collar-grip-side foot on the hip, or put the foot on the hip and then sit down
 - You can then pull them down in to your [open guard](#position-open-guard) and close the ankles to [closed guard](#position-full-guard) if you wish
 
-## Pull guard sweep
+### Pull guard sweep
 
 Steps:
 
@@ -268,7 +318,7 @@ Steps:
 - Kick out the wrist grip side foot at the same time as pulling the cuff forward, and pulling to the cuff side with the collar side foot (like an inward crescent kick)
 - As they fall forward, follow over and transition to [full mount](position-full-mount)
 
-## Mat return
+### Mat return
 
 Steps:
 
@@ -279,7 +329,72 @@ Steps:
 - Rotate your waist and pull them over your upright knee to the mat
 - Ending up in [side control top](#position-side-control-top)
 
-## Arm bar from guard
+### Side control to knee on belly
+
+Steps:
+
+- With the top arm underneath their head, grab their collar
+- With the bottom arm, grab their belt on the far side hip
+- Use these two grips to hold them down as you pop to knee on belly (and top foot out!)
+
+### Side control release to turtle top
+
+Steps:
+
+- Assuming your left leg is the top one (near the head not the hip)
+- Lift your weight off them and almost move your far arm (bottom arm) away to give them space to turn over
+- If you're quick enough, catch their hip with that bottom arm as they turn, come up on your top hand and bottom foot, insert your top foot as a hook and pull them back in to [back mount](#position-back-mount)
+- If you're not quick enough and they get to their knees fully and turtle up, post up on your left hand (to your opponent's 12 O'clock) and left foot, swing your right leg over and hug their hips with your knees, continue rolling pulling them with you, changing to right hand post, then on to your side to take their [back mount](#position-back-mount)
+
+### Foot walkup and shin half-guard pass
+
+Steps:
+
+- Arm on the opposide side to the trapped leg underneath their head (fingers in armpit)
+- Keep your shoulder pressure with that under-neck arm
+- Drop your untrapped him to the floor
+- Lean weight across to the trapped side shoulder (pinning your opponents shoulders to the floor)
+- Walk your trapped leg foot (heel and toe) up near their butt
+- Grab their knee pants material and work your trapped knee free of the lock (not the whole leg, just the trapped knee)
+- Using your shin of the trapped knee press their leg to the floor
+- Hard pressure at the shoulder side and slide your trapped foot out and go to [Side control top](#position-side-control-top)
+
+### Toreando pass
+
+Steps:
+
+- From outside of [Open guard](#position-open-guard)
+- You want to grab the inside of their trouser knee on one side and your hand on their opposite hip
+- Push/hold their hip to the floor
+- Then using their trouser knee grip you can push it straight out, moving your arm across your body so the leg goes past you
+- Then quickly pass their stretched knee (so if their right knee is straight you pass to your left)
+- Drop to [side control](#position-side-control-top)
+
+### Knee slice pass
+
+Steps:
+
+- From outside of [Open guard](#position-open-guard)
+- You want to grab the inside of their trouser knee on one side and your hand on their opposite hip
+- Push/hold their hip to the floor
+- Then using their trouser knee grip, push that knee to the floor, put your x-side/opposite knee to floor just past their knee (i.e. shin on their thigh)
+- Keep your same side foot out wide
+- Then slide your knee all the way through
+- Drop to [side control](#position-side-control-top)
+
+### Idiot sweep
+
+Steps:
+
+- From the bottom of outside [Open guard](#position-open-guard)
+- Be sitting on your butt rather than lying down
+- Quickly pull your feet back towards your knees (L shape) and hook them behind your opponents ankles
+- At the same time pull back and out with your legs and push with your hands on their knees/shins/thighs
+- Ideally keep your grips on their legs and follow them up to retain control
+
+## Submissions
+
+### Arm bar from guard
 
 Steps:
 
@@ -289,7 +404,7 @@ Steps:
 - Swing your leg out and round in front of their head
 - Clamp your legs down and together and raise your hips to finish the arm bar
 
-## Triangle from guard
+### Triangle from guard
 
 Steps:
 
@@ -302,7 +417,7 @@ Steps:
 - Ensure their arm is going across your stomach and tight to your hips
 - Squeeze your legs together, pull their head to your stomach and pull your non-locked foot towards the ground
 
-## Omoplata from guard
+### Omoplata from guard
 
 Steps:
 
@@ -312,7 +427,7 @@ Steps:
 - Grab the back of their belt (they'll have bent forward)
 - Uncross your legs to be able to sit up/forward (towards their head) for the tap
 
-## Kimura from guard
+### Kimura from guard
 
 Steps:
 
@@ -322,7 +437,7 @@ Steps:
 - Keep at least the same-side leg on their back to stop them rolling out
 - Move their wrist up their spine for the tap
 
-## Side control far side americana
+### Side control far side americana
 
 Steps:
 
@@ -337,7 +452,7 @@ Steps:
 - If they still don't tap, raise their elbow from the floor and slightly move the wrist down towards their feet
 - If this fails, you can often get [Side control far side arm bar](#side-control-far-side-arm-bar)
 
-## Side control far side arm bar
+### Side control far side arm bar
 
 Steps:
 
@@ -347,15 +462,15 @@ Steps:
 - Reverse-rev the opposite wrist (to lift/hyperextend their elbow)
 - If this fails they'll either go back to [Side control far side americana](#side-control-far-side-americana) or maybe to [Side control far side kimura](#side-control-far-side-kimura)
 
-## Side control far side kimura
+### Side control far side kimura
 
 Steps:
 
 - From trying to get a [Side control far side arm bar](#side-control-far-side-arm-bar) you find your opponent tries to bend their arm to get out of it
 - Change your grip so your lower hand now grabs the wrist (C-grip) and your upper hand goes under their tricep/bicep to grab your own wrist (monkey grip)
-- Transition to [north-south](#position)
+- Transition to [north-south](#position-north-south)
 
-## Side control breadcutter choke
+### Side control breadcutter choke
 
 Steps:
 
@@ -365,7 +480,7 @@ Steps:
 - Drop your elbow to the floor and flex your wrist up to finish
 - If needed, put your forehead on their chest and knees off the floor
 
-## Side control baseball bat choke
+### Side control baseball bat choke
 
 Steps:
 
@@ -375,70 +490,7 @@ Steps:
 - Rotate to face their feet, making your forearms a cross on their neck
 - Head to the floor (to the side you were laying) to finish
 
-## Side control to knee on belly
-
-Steps:
-
-- With the top arm underneath their head, grab their collar
-- With the bottom arm, grab their belt on the far side hip
-- Use these two grips to hold them down as you pop to knee on belly (and top foot out!)
-
-## Side control release to turtle top
-
-Steps:
-
-- Assuming your left leg is the top one (near the head not the hip)
-- Lift your weight off them and almost move your far arm (bottom arm) away to give them space to turn over
-- If you're quick enough, catch their hip with that bottom arm as they turn, come up on your top hand and bottom foot, insert your top foot as a hook and pull them back in to [back mount](#position-back-mount)
-- If you're not quick enough and they get to their knees fully and turtle up, post up on your left hand (to your opponent's 12 O'clock) and left foot, swing your right leg over and hug their hips with your knees, continue rolling pulling them with you, changing to right hand post, then on to your side to take their [back mount](#position-back-mount)
-
-## Foot walkup and shin half-guard pass
-
-Steps:
-
-- Arm on the opposide side to the trapped leg underneath their head (fingers in armpit)
-- Keep your shoulder pressure with that under-neck arm
-- Drop your untrapped him to the floor
-- Lean weight across to the trapped side shoulder (pinning your opponents shoulders to the floor)
-- Walk your trapped leg foot (heel and toe) up near their butt
-- Grab their knee pants material and work your trapped knee free of the lock (not the whole leg, just the trapped knee)
-- Using your shin of the trapped knee press their leg to the floor
-- Hard pressure at the shoulder side and slide your trapped foot out and go to [Side control top](#position-side-control-top)
-
-## Toreando pass
-
-Steps:
-
-- From outside of [Open guard](#position-open-guard)
-- You want to grab the inside of their trouser knee on one side and your hand on their opposite hip
-- Push/hold their hip to the floor
-- Then using their trouser knee grip you can push it straight out, moving your arm across your body so the leg goes past you
-- Then quickly pass their stretched knee (so if their right knee is straight you pass to your left)
-- Drop to [side control](#position-side-control-top)
-
-## Knee slice pass
-
-Steps:
-
-- From outside of [Open guard](#position-open-guard)
-- You want to grab the inside of their trouser knee on one side and your hand on their opposite hip
-- Push/hold their hip to the floor
-- Then using their trouser knee grip, push that knee to the floor, put your x-side/opposite knee to floor just past their knee (i.e. shin on their thigh)
-- Keep your same side foot out wide
-- Then slide your knee all the way through
-- Drop to [side control](#position-side-control-top)
-
-## Idiot sweep
-
-Steps:
-
-- From the bottom of outside [Open guard](#position-open-guard)
-- Be sitting on your butt rather than lying down
-- Quickly pull your feet back towards your knees (L shape) and hook them behind your opponents ankles
-- At the same time pull back and out with your legs and push with your hands on their knees/shins/thighs
-- Ideally keep your grips on their legs and follow them up to retain control
-
-## Rear naked choke
+### Rear naked choke
 
 Steps:
 
@@ -450,7 +502,7 @@ Steps:
 - Squeeze for the tap
 - If you can't get your bottom arm hand behind their head, switch to a gable grip and put your bottom forearm down their shoulder/back (for leverage) and finish without it
 
-## Cross collar choke
+### Cross collar choke
 
 Steps:
 
@@ -460,7 +512,7 @@ Steps:
 - Your bottom hand grabs their gi collar and pull it down (doesn't need to be a crazy yank, just keeping it tight)
 - Slide your top arm out and straight (think ezekiel style movement, the slide off and straighten)
 
-## Bow and arrow choke
+### Bow and arrow choke
 
 This one is hard for me to execute due to size, but documenting it anyway...
 
