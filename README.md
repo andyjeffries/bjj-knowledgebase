@@ -9,7 +9,7 @@
     - [Position: Half-guard bottom](#position-half-guard-bottom)
     - [Position: Knee shield half guard bottom](#position-knee-shield-half-guard-bottom)
     - [Position: Side control top](#position-side-control-top)
-    - [Position: Side control botttom](#position-side-control-botttom)
+    - [Position: Side control bottom](#position-side-control-bottom)
     - [Position: Back mount](#position-back-mount)
     - [Position: Full mount](#position-full-mount)
     - [Position: Knee on belly](#position-knee-on-belly)
@@ -45,6 +45,8 @@
     - [Rear naked choke](#rear-naked-choke)
     - [Cross collar choke](#cross-collar-choke)
     - [Bow and arrow choke](#bow-and-arrow-choke)
+    - [Ezekiel from mount](#ezekiel-from-mount)
+    - [Cross-collar choke from mount](#cross-collar-choke-from-mount)
 
 ## Positions
 
@@ -144,7 +146,7 @@ Tips:
   1. Deal with the hip arm first (because that's stopping you putting your weight forwards), then just push forward to push that arm to their side
   2. Push on their tricep (so their arm slips past your neck and your neck is then on their tricep)
 
-### Position: Side control botttom
+### Position: Side control bottom
 
 Tips:
 
@@ -188,6 +190,11 @@ Defensive tips:
 - Keep your arms in tight
 - Use your elbows on their legs/knees to lower them down
 - You can [trap and roll](#trap-and-roll) to change to being in their [full guard](#position-full-guard)
+
+Options:
+
+- [Ezekiel from mount](#ezekiel-from-mount)
+- [Cross collar choke from mount](#cross-collar-choke-from-mount)
 
 ### Position: Knee on belly
 
@@ -527,3 +534,21 @@ Steps:
 - Sit back on to your butt
 - Bring your bottom leg round and pin their bottom arm
 - Pull tight on the collar in the same was as a cross collar choke and their pant knee at the same time (don't lay back flat though)
+
+###  Ezekiel from mount
+
+Steps:
+
+- Get one of your hands under their neck (you can use the tips from [side control](#position-side-control-top) to help)
+- Lean your head to the side of that hand (so they can see less what you're doing)
+- Snake your choking hand palm towards you (back of the palm towards them) in front of their throat as it passes your bottom hand, insert the fingers of your bottom hand deep in to the choking hand's sleeve and fist grip tight
+
+### Cross-collar choke from mount
+
+Steps (these are reversable but as there's no top/bottom etc hand, I'll pick one):
+
+- With your left hand, open the (from your perspective) left side of their gi top a bit
+- Put your right hand in, fingers first, palm up deeeeep in to the left side of their neck
+- In one smooth movement bring your right hand up above that hand to the floor and round in a semicircle to the right side of their neck
+- Grab their shoulder material on the way past and use your forearm smashing in to their face to go under their chin
+- Lean forward to put your head on the floor above their head (stomach going down through your hands) to get the tap
