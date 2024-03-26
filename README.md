@@ -21,6 +21,7 @@
     - [Ankle pick half guard pass](#ankle-pick-half-guard-pass)
     - [Gi collar half guard pass](#gi-collar-half-guard-pass)
     - [Back take half guard pass](#back-take-half-guard-pass)
+    - [Kimura sweep](#kimura-sweep)
     - [Trap and roll](#trap-and-roll)
     - [Kick out sweep from De la Riva](#kick-out-sweep-from-de-la-riva)
     - [Pull guard](#pull-guard)
@@ -72,6 +73,7 @@ Options:
 - [Triangle from guard](#triangle-from-guard)
 - [Omoplata from guard](#omoplata-from-guard)
 - [Kimura from guard](#kimura-from-guard)
+- [Kimura sweep](#kimura-sweep)
 
 Defensive tips:
 
@@ -286,6 +288,18 @@ Steps:
 - Grab hold of the back of their collar and brace down their upper back
 - Keeping them tightly to you, roll on to your back
 - Establish your other foot as a hook and seatbelt control with your arms to gain [back control](#position-back-mount), not lying flat on your back though, more on your side (so you don't carry their weight)
+
+### Kimura sweep
+
+Steps:
+
+- From the bottom of [Position: full guard](#position-full-guard)
+- Get one of their hands to the mat (e.g. their left arm, so on your right side)
+- Open your legs and shrimp out slightly to your left
+- Sit up and put your left foot flat on the floor
+- Reach your left arm over their left arm and overhook it, pinch your elbow tight, clamping their arm to your side
+- Drive your hip up and pull them over to their trapped arm side
+- Ending up in [top mount](#position-full-mount)
 
 ### Trap and roll
 
